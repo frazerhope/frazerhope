@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Turtle Projects</b>
-  - [Pong Game](https://github.com/frazerhope/pong_game_turtle)
+  - [Pong Game](https://github.com/frazerhope/pong_game)
 - <b>Tkinter Projects</b>
   - [Image Analysis Middleware](https://github.com/frazerhope/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
