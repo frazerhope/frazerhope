@@ -6,7 +6,7 @@
   - [Pong Game](https://github.com/frazerhope/pong_game)
   - [Snake Game](https://github.com/frazerhope/snake_game)
 - <b>Tkinter Projects</b>
-  - [Image Analysis Middleware](https://github.com/frazerhope/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Pomodoro Timer GUI](https://github.com/frazerhope/pomodoro_timer) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/frazerhope/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/frazerhope/Jwipe.PowerShell)
