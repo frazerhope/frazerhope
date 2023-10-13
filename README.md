@@ -7,24 +7,10 @@
   - [Snake Game](https://github.com/frazerhope/snake_game)
 - <b>Tkinter Projects</b>
   - [Pomodoro Timer GUI](https://github.com/frazerhope/pomodoro_timer) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/frazerhope/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/frazerhope/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/frazerhope/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/frazerhope/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/frazerhope/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/frazerhope/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/frazerhope/Key-Logger-With-Email)
-
-<h2> 🤳 Connect with me:</h2>
+- <b>Quantum Alogirthms Practise</b>
+  - [Grovers Algorithm](https://github.com/frazerhope/grovers_algorithm)
+  - [Fourier Checking](https://github.com/frazerhope/qiskit_fourier_checking)
 
 
-[<img align="left" alt="frazerhope | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-pe/
-[linkedin]: https://linkedin.com/in/frazerhope
-
-<!--
 **frazerhope/frazerhope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
