@@ -11,6 +11,3 @@
   - [Grovers Algorithm](https://github.com/frazerhope/grovers_algorithm)
   - [Fourier Checking](https://github.com/frazerhope/qiskit_fourier_checking)
 
-
-
-**frazerhope/frazerhope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
