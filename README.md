@@ -6,7 +6,8 @@
   - [Pong Game](https://github.com/frazerhope/pong_game)
   - [Snake Game](https://github.com/frazerhope/snake_game)
 - <b>Tkinter Projects</b>
-  - [Pomodoro Timer GUI](https://github.com/frazerhope/pomodoro_timer) 
+  - [Pomodoro Timer GUI](https://github.com/frazerhope/pomodoro_timer)
+  - [Password Saver and Generator](https://github.com/frazerhope/password_generatoer_saver)
 - <b>Quantum Alogirthms Practise</b>
   - [Grovers Algorithm](https://github.com/frazerhope/grovers_algorithm)
   - [Fourier Checking](https://github.com/frazerhope/qiskit_fourier_checking)
