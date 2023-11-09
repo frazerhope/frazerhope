@@ -8,7 +8,7 @@
 - <b>Tkinter Projects</b>
   - [Pomodoro Timer GUI](https://github.com/frazerhope/pomodoro_timer)
   - [Password Saver and Generator](https://github.com/frazerhope/password_generator_saver)
-- <b>Quantum Alogirthms Practise</b>
+- <b>Quantum Algorithms Practise</b>
   - [Grovers Algorithm](https://github.com/frazerhope/grovers_algorithm)
   - [Fourier Checking](https://github.com/frazerhope/qiskit_fourier_checking)
 <h2> 🖥️ Machine Learning </h2>
