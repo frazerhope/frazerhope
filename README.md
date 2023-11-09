@@ -13,7 +13,7 @@
   - [Fourier Checking](https://github.com/frazerhope/qiskit_fourier_checking)
 <h2> 🖥️ Machine Learning </h2>
 
-- <b>Supervised and Unsupervised Learning Learning (Linear Regression, K-Means Clustering, KNN, SVM) </b>
+- <b>Supervised and Unsupervised Learning (Linear Regression, K-Means Clustering, KNN, SVM) </b>
   - [Supervised Methods](https://github.com/frazerhope/machine_learning)
 - <b>Neural Networks </b>
   - [Image Classification](https://github.com/frazerhope/image_classification)
