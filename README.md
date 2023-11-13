@@ -19,4 +19,6 @@
   - [Image Classification](https://github.com/frazerhope/image_classification)
   - [Text Classification](https://github.com/frazerhope/text_classification)
 <h2> 🧪 Quantum Machine Learning </h2>
-  - [VQE-Hydrogen](https://github.com/frazerhope/VQE)
+  
+  - [VQE-Hydrogen](https://github.com/frazerhope/VQE-Hydrogen)
+  
