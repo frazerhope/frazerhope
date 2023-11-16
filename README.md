@@ -21,4 +21,5 @@
 <h2> 🧪 Quantum Machine Learning </h2>
   
   - [VQE-Hydrogen](https://github.com/frazerhope/VQE-Hydrogen)
+  - [Quantum Kernel-Coming Soon!!!](https://github.com/frazerhope/frazerhope)
   
